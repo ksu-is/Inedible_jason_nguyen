@@ -19,9 +19,10 @@ I moved the python code to the desktop, and the excel file exports to desktop
 
 
 Problem Areas
+- i may have gotten ip banned from scraping too much on Yelp??? JN 11/29
 - find out why the outputs in the excel file come up with the Except option "Not Available" for most data
-- learn what try does and why most of the restaurant info goes to the Except output
-- fix try in the code so that instead of "Not Available" showing up in excel, the information of restaurants shows up
+- learn what try does and why most of the restaurant info goes to the Except output in the try statement
+- fix try statement in the code so that instead of "Not Available" showing up in excel, the information of restaurants shows up
 
 Needed
 - insert code needed to sort the data by ratings and only export the lowest rated restaurants
