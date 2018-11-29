@@ -6,12 +6,12 @@ source repos?
 
 
 
-**-google for yelp scraper**
--download yelp scraper
--install pip and general pip modules
--download yelp scraper from github
--figure out how to run the code
--determine where the code outputs the excel file
--find out why the outputs in the excel file come up with the Except option "Not Available" for most data
--learn what try does in the code
--fix try in the code so that instead of "Not Available" showing up in excel, the information of restaurants shows up
+**- google for yelp scraper**
+- download yelp scraper
+- install pip and general pip modules
+- download yelp scraper from github
+- figure out how to run the code
+- determine where the code outputs the excel file
+- find out why the outputs in the excel file come up with the Except option "Not Available" for most data
+- learn what try does in the code
+- fix try in the code so that instead of "Not Available" showing up in excel, the information of restaurants shows up
